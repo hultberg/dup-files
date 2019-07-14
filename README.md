@@ -8,4 +8,4 @@ $ dup-files /home/john/photos
 
 ## License
 
-[ISC license](ISC License)
+[ISC license](LICENSE)
