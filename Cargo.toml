@@ -1,5 +1,5 @@
 [package]
-name = "similar_photo"
+name = "dup-files"
 version = "0.1.0"
 authors = ["Edvin Hultberg <post@hultberg.no>"]
 edition = "2018"
