@@ -1,0 +1,8 @@
+[package]
+name = "similar_photo"
+version = "0.1.0"
+authors = ["Edvin Hultberg <post@hultberg.no>"]
+edition = "2018"
+
+[dependencies]
+sha-1 = "0.8.1"
